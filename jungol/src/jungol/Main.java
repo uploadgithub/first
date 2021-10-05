@@ -13,6 +13,8 @@ public class Main {
 		
 		a = sc.nextDouble();
 		
+		System.out.println("test");
+		
 		if(a<=50.80)
 		{
 			System.out.println("Flyweight");
